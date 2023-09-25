@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b2dd776c-327d-4211-9dfe-1e681e9acd57</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c07bd84b-4728-440b-8245-8098a905b291</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c07bd84b-4728-440b-8245-8098a905b291</id>
+      <masked>false</masked>
+      <name>CityName</name>
+   </variable>
 </TestCaseEntity>

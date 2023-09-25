@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>New Test Case</name>
-   <tag></tag>
+   <tag>Sanity,High</tag>
    <comment></comment>
    <testCaseGuid>11023001-2d9d-42a8-9bbf-3c96bba96b23</testCaseGuid>
 </TestCaseEntity>
